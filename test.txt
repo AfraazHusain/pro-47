@@ -1,0 +1,2 @@
+ bullets.addImage(bulletImg)
+  bullets.scale=0.175
